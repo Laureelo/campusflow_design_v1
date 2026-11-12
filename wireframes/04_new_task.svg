@@ -1,0 +1,22 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="360" height="800" viewBox="0 0 360 800">
+  <title>Wireframe 4 : Nouvelle tâche</title>
+  <rect x="0" y="0" width="360" height="800" fill="#FFFFFF"/>
+  <rect x="1" y="1" width="358" height="798" rx="18" fill="none" stroke="#2B2B2B" stroke-width="2"/>
+  <rect x="1" y="1" width="358" height="64" rx="0" fill="#EDEDED" stroke="#8A8A8A" stroke-width="1.5"/>
+  <text x="60" y="40" font-family="Arial, sans-serif" font-size="20" font-weight="bold" text-anchor="start" fill="#2B2B2B">Nouvelle tâche</text>
+  <text x="20" y="40" font-family="Arial, sans-serif" font-size="22" font-weight="normal" text-anchor="start" fill="#2B2B2B">&#8592;</text>
+  <text x="20" y="96" font-family="Arial, sans-serif" font-size="13" font-weight="bold" text-anchor="start" fill="#2B2B2B">Titre</text>
+  <rect x="16" y="104" width="328" height="50" rx="6" fill="none" stroke="#8A8A8A" stroke-width="1.5"/>
+  <text x="30" y="135" font-family="Arial, sans-serif" font-size="14" font-weight="normal" text-anchor="start" fill="#555555">...</text>
+  <text x="20" y="188" font-family="Arial, sans-serif" font-size="13" font-weight="bold" text-anchor="start" fill="#2B2B2B">Cours</text>
+  <rect x="16" y="196" width="328" height="50" rx="6" fill="none" stroke="#8A8A8A" stroke-width="1.5"/>
+  <text x="30" y="227" font-family="Arial, sans-serif" font-size="14" font-weight="normal" text-anchor="start" fill="#555555">...</text>
+  <text x="20" y="280" font-family="Arial, sans-serif" font-size="13" font-weight="bold" text-anchor="start" fill="#2B2B2B">Date</text>
+  <rect x="16" y="288" width="328" height="50" rx="6" fill="none" stroke="#8A8A8A" stroke-width="1.5"/>
+  <text x="30" y="319" font-family="Arial, sans-serif" font-size="14" font-weight="normal" text-anchor="start" fill="#555555">...</text>
+  <text x="20" y="372" font-family="Arial, sans-serif" font-size="13" font-weight="bold" text-anchor="start" fill="#2B2B2B">Rappel</text>
+  <rect x="16" y="380" width="328" height="50" rx="6" fill="none" stroke="#8A8A8A" stroke-width="1.5"/>
+  <text x="30" y="411" font-family="Arial, sans-serif" font-size="14" font-weight="normal" text-anchor="start" fill="#555555">La veille à 18 h</text>
+  <rect x="16" y="474" width="328" height="52" rx="26" fill="#CFCFCF" stroke="#8A8A8A" stroke-width="1.5"/>
+  <text x="180" y="506" font-family="Arial, sans-serif" font-size="15" font-weight="bold" text-anchor="middle" fill="#2B2B2B">Enregistrer</text>
+</svg>

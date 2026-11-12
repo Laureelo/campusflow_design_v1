@@ -1,0 +1,34 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="360" height="800" viewBox="0 0 360 800">
+  <title>Wireframe 2 variante B : Échéances groupées par cours</title>
+  <rect x="0" y="0" width="360" height="800" fill="#FFFFFF"/>
+  <rect x="1" y="1" width="358" height="798" rx="18" fill="none" stroke="#2B2B2B" stroke-width="2"/>
+  <rect x="1" y="1" width="358" height="64" rx="0" fill="#EDEDED" stroke="#8A8A8A" stroke-width="1.5"/>
+  <text x="20" y="40" font-family="Arial, sans-serif" font-size="20" font-weight="bold" text-anchor="start" fill="#2B2B2B">Échéances</text>
+  <rect x="1" y="80" width="358" height="34" rx="0" fill="#EDEDED" stroke="#8A8A8A" stroke-width="1.5"/>
+  <text x="20" y="103" font-family="Arial, sans-serif" font-size="14" font-weight="bold" text-anchor="start" fill="#2B2B2B">Mobile</text>
+  <circle cx="32" cy="140" r="10" fill="none" stroke="#8A8A8A" stroke-width="1.5"/>
+  <text x="56" y="145" font-family="Arial, sans-serif" font-size="14" font-weight="normal" text-anchor="start" fill="#2B2B2B">Rendu TP Dart · demain</text>
+  <line x1="16" y1="166" x2="344" y2="166" stroke="#8A8A8A" stroke-width="1"/>
+  <circle cx="32" cy="192" r="10" fill="none" stroke="#8A8A8A" stroke-width="1.5"/>
+  <text x="56" y="197" font-family="Arial, sans-serif" font-size="14" font-weight="normal" text-anchor="start" fill="#2B2B2B">Projet Flutter · vendredi</text>
+  <line x1="16" y1="218" x2="344" y2="218" stroke="#8A8A8A" stroke-width="1"/>
+  <rect x="1" y="218" width="358" height="34" rx="0" fill="#EDEDED" stroke="#8A8A8A" stroke-width="1.5"/>
+  <text x="20" y="241" font-family="Arial, sans-serif" font-size="14" font-weight="bold" text-anchor="start" fill="#2B2B2B">Réseaux</text>
+  <circle cx="32" cy="278" r="10" fill="none" stroke="#8A8A8A" stroke-width="1.5"/>
+  <text x="56" y="283" font-family="Arial, sans-serif" font-size="14" font-weight="normal" text-anchor="start" fill="#2B2B2B">TP Réseaux · en retard</text>
+  <line x1="16" y1="304" x2="344" y2="304" stroke="#8A8A8A" stroke-width="1"/>
+  <rect x="1" y="304" width="358" height="34" rx="0" fill="#EDEDED" stroke="#8A8A8A" stroke-width="1.5"/>
+  <text x="20" y="327" font-family="Arial, sans-serif" font-size="14" font-weight="bold" text-anchor="start" fill="#2B2B2B">Bases de données</text>
+  <circle cx="32" cy="364" r="10" fill="none" stroke="#8A8A8A" stroke-width="1.5"/>
+  <text x="56" y="369" font-family="Arial, sans-serif" font-size="14" font-weight="normal" text-anchor="start" fill="#2B2B2B">Réviser les jointures · lundi</text>
+  <line x1="16" y1="390" x2="344" y2="390" stroke="#8A8A8A" stroke-width="1"/>
+  <circle cx="312" cy="688" r="28" fill="#CFCFCF" stroke="#8A8A8A" stroke-width="1.5"/>
+  <text x="312" y="696" font-family="Arial, sans-serif" font-size="26" font-weight="bold" text-anchor="middle" fill="#2B2B2B">+</text>
+  <rect x="1" y="728" width="358" height="71" rx="0" fill="#EDEDED" stroke="#8A8A8A" stroke-width="1.5"/>
+  <circle cx="60" cy="752" r="12" fill="#D0D0D0" stroke="#8A8A8A" stroke-width="1.5"/>
+  <text x="60" y="780" font-family="Arial, sans-serif" font-size="12" font-weight="bold" text-anchor="middle" fill="#2B2B2B">Échéances</text>
+  <circle cx="180" cy="752" r="12" fill="none" stroke="#8A8A8A" stroke-width="1.5"/>
+  <text x="180" y="780" font-family="Arial, sans-serif" font-size="12" font-weight="normal" text-anchor="middle" fill="#2B2B2B">Cours</text>
+  <circle cx="300" cy="752" r="12" fill="none" stroke="#8A8A8A" stroke-width="1.5"/>
+  <text x="300" y="780" font-family="Arial, sans-serif" font-size="12" font-weight="normal" text-anchor="middle" fill="#2B2B2B">Profil</text>
+</svg>

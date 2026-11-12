@@ -1,0 +1,48 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="360" height="800" viewBox="0 0 360 800">
+  <title>Wireframe 2 variante C : Échéances avec bandeau de jours</title>
+  <rect x="0" y="0" width="360" height="800" fill="#FFFFFF"/>
+  <rect x="1" y="1" width="358" height="798" rx="18" fill="none" stroke="#2B2B2B" stroke-width="2"/>
+  <rect x="1" y="1" width="358" height="64" rx="0" fill="#EDEDED" stroke="#8A8A8A" stroke-width="1.5"/>
+  <text x="20" y="40" font-family="Arial, sans-serif" font-size="20" font-weight="bold" text-anchor="start" fill="#2B2B2B">Novembre</text>
+  <rect x="18" y="82" width="40" height="62" rx="20" fill="none" stroke="#8A8A8A" stroke-width="1.5"/>
+  <text x="38" y="106" font-family="Arial, sans-serif" font-size="13" font-weight="normal" text-anchor="middle" fill="#2B2B2B">L</text>
+  <text x="38" y="130" font-family="Arial, sans-serif" font-size="15" font-weight="bold" text-anchor="middle" fill="#2B2B2B">9</text>
+  <rect x="64" y="82" width="40" height="62" rx="20" fill="none" stroke="#8A8A8A" stroke-width="1.5"/>
+  <text x="84" y="106" font-family="Arial, sans-serif" font-size="13" font-weight="normal" text-anchor="middle" fill="#2B2B2B">M</text>
+  <text x="84" y="130" font-family="Arial, sans-serif" font-size="15" font-weight="bold" text-anchor="middle" fill="#2B2B2B">10</text>
+  <rect x="110" y="82" width="40" height="62" rx="20" fill="none" stroke="#8A8A8A" stroke-width="1.5"/>
+  <text x="130" y="106" font-family="Arial, sans-serif" font-size="13" font-weight="normal" text-anchor="middle" fill="#2B2B2B">M</text>
+  <text x="130" y="130" font-family="Arial, sans-serif" font-size="15" font-weight="bold" text-anchor="middle" fill="#2B2B2B">11</text>
+  <rect x="156" y="82" width="40" height="62" rx="20" fill="#D0D0D0" stroke="#8A8A8A" stroke-width="1.5"/>
+  <text x="176" y="106" font-family="Arial, sans-serif" font-size="13" font-weight="normal" text-anchor="middle" fill="#2B2B2B">J</text>
+  <text x="176" y="130" font-family="Arial, sans-serif" font-size="15" font-weight="bold" text-anchor="middle" fill="#2B2B2B">12</text>
+  <circle cx="176" cy="156" r="3" fill="#2B2B2B" stroke="#2B2B2B" stroke-width="1.5"/>
+  <rect x="202" y="82" width="40" height="62" rx="20" fill="none" stroke="#8A8A8A" stroke-width="1.5"/>
+  <text x="222" y="106" font-family="Arial, sans-serif" font-size="13" font-weight="normal" text-anchor="middle" fill="#2B2B2B">V</text>
+  <text x="222" y="130" font-family="Arial, sans-serif" font-size="15" font-weight="bold" text-anchor="middle" fill="#2B2B2B">13</text>
+  <circle cx="222" cy="156" r="3" fill="#2B2B2B" stroke="#2B2B2B" stroke-width="1.5"/>
+  <rect x="248" y="82" width="40" height="62" rx="20" fill="none" stroke="#8A8A8A" stroke-width="1.5"/>
+  <text x="268" y="106" font-family="Arial, sans-serif" font-size="13" font-weight="normal" text-anchor="middle" fill="#2B2B2B">S</text>
+  <text x="268" y="130" font-family="Arial, sans-serif" font-size="15" font-weight="bold" text-anchor="middle" fill="#2B2B2B">14</text>
+  <rect x="294" y="82" width="40" height="62" rx="20" fill="none" stroke="#8A8A8A" stroke-width="1.5"/>
+  <text x="314" y="106" font-family="Arial, sans-serif" font-size="13" font-weight="normal" text-anchor="middle" fill="#2B2B2B">D</text>
+  <text x="314" y="130" font-family="Arial, sans-serif" font-size="15" font-weight="bold" text-anchor="middle" fill="#2B2B2B">15</text>
+  <text x="20" y="196" font-family="Arial, sans-serif" font-size="15" font-weight="bold" text-anchor="start" fill="#2B2B2B">Jeudi 12</text>
+  <circle cx="32" cy="238" r="11" fill="none" stroke="#8A8A8A" stroke-width="1.5"/>
+  <text x="56" y="234" font-family="Arial, sans-serif" font-size="15" font-weight="normal" text-anchor="start" fill="#2B2B2B">Rendu TP Dart</text>
+  <text x="56" y="254" font-family="Arial, sans-serif" font-size="12" font-weight="normal" text-anchor="start" fill="#555555">Mobile · 10 h</text>
+  <line x1="16" y1="272" x2="344" y2="272" stroke="#8A8A8A" stroke-width="1"/>
+  <circle cx="32" cy="308" r="11" fill="none" stroke="#8A8A8A" stroke-width="1.5"/>
+  <text x="56" y="304" font-family="Arial, sans-serif" font-size="15" font-weight="normal" text-anchor="start" fill="#2B2B2B">Quiz Réseaux</text>
+  <text x="56" y="324" font-family="Arial, sans-serif" font-size="12" font-weight="normal" text-anchor="start" fill="#555555">Réseaux · 14 h</text>
+  <line x1="16" y1="342" x2="344" y2="342" stroke="#8A8A8A" stroke-width="1"/>
+  <circle cx="312" cy="688" r="28" fill="#CFCFCF" stroke="#8A8A8A" stroke-width="1.5"/>
+  <text x="312" y="696" font-family="Arial, sans-serif" font-size="26" font-weight="bold" text-anchor="middle" fill="#2B2B2B">+</text>
+  <rect x="1" y="728" width="358" height="71" rx="0" fill="#EDEDED" stroke="#8A8A8A" stroke-width="1.5"/>
+  <circle cx="60" cy="752" r="12" fill="#D0D0D0" stroke="#8A8A8A" stroke-width="1.5"/>
+  <text x="60" y="780" font-family="Arial, sans-serif" font-size="12" font-weight="bold" text-anchor="middle" fill="#2B2B2B">Échéances</text>
+  <circle cx="180" cy="752" r="12" fill="none" stroke="#8A8A8A" stroke-width="1.5"/>
+  <text x="180" y="780" font-family="Arial, sans-serif" font-size="12" font-weight="normal" text-anchor="middle" fill="#2B2B2B">Cours</text>
+  <circle cx="300" cy="752" r="12" fill="none" stroke="#8A8A8A" stroke-width="1.5"/>
+  <text x="300" y="780" font-family="Arial, sans-serif" font-size="12" font-weight="normal" text-anchor="middle" fill="#2B2B2B">Profil</text>
+</svg>

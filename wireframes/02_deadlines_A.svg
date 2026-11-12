@@ -1,0 +1,39 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="360" height="800" viewBox="0 0 360 800">
+  <title>Wireframe 2 variante A : Échéances, liste de la semaine</title>
+  <rect x="0" y="0" width="360" height="800" fill="#FFFFFF"/>
+  <rect x="1" y="1" width="358" height="798" rx="18" fill="none" stroke="#2B2B2B" stroke-width="2"/>
+  <rect x="1" y="1" width="358" height="64" rx="0" fill="#EDEDED" stroke="#8A8A8A" stroke-width="1.5"/>
+  <text x="20" y="40" font-family="Arial, sans-serif" font-size="20" font-weight="bold" text-anchor="start" fill="#2B2B2B">Cette semaine</text>
+  <circle cx="32" cy="118" r="11" fill="none" stroke="#8A8A8A" stroke-width="1.5"/>
+  <text x="56" y="114" font-family="Arial, sans-serif" font-size="15" font-weight="normal" text-anchor="start" fill="#2B2B2B">Rendu TP Dart</text>
+  <text x="56" y="134" font-family="Arial, sans-serif" font-size="12" font-weight="normal" text-anchor="start" fill="#555555">Mobile · demain</text>
+  <text x="340" y="120" font-family="Arial, sans-serif" font-size="12" font-weight="bold" text-anchor="end" fill="#B3261E">Demain</text>
+  <line x1="16" y1="152" x2="344" y2="152" stroke="#8A8A8A" stroke-width="1"/>
+  <circle cx="32" cy="188" r="11" fill="none" stroke="#8A8A8A" stroke-width="1.5"/>
+  <text x="56" y="184" font-family="Arial, sans-serif" font-size="15" font-weight="normal" text-anchor="start" fill="#2B2B2B">Projet Flutter</text>
+  <text x="56" y="204" font-family="Arial, sans-serif" font-size="12" font-weight="normal" text-anchor="start" fill="#555555">Mobile · vendredi 17 h</text>
+  <line x1="16" y1="222" x2="344" y2="222" stroke="#8A8A8A" stroke-width="1"/>
+  <circle cx="32" cy="258" r="11" fill="none" stroke="#8A8A8A" stroke-width="1.5"/>
+  <text x="56" y="254" font-family="Arial, sans-serif" font-size="15" font-weight="normal" text-anchor="start" fill="#2B2B2B">Examen UX</text>
+  <text x="56" y="274" font-family="Arial, sans-serif" font-size="12" font-weight="normal" text-anchor="start" fill="#555555">Mobile · lundi</text>
+  <line x1="16" y1="292" x2="344" y2="292" stroke="#8A8A8A" stroke-width="1"/>
+  <circle cx="32" cy="328" r="11" fill="none" stroke="#8A8A8A" stroke-width="1.5"/>
+  <text x="56" y="324" font-family="Arial, sans-serif" font-size="15" font-weight="normal" text-anchor="start" fill="#2B2B2B">TP Réseaux</text>
+  <text x="56" y="344" font-family="Arial, sans-serif" font-size="12" font-weight="normal" text-anchor="start" fill="#555555">Réseaux · hier</text>
+  <text x="340" y="330" font-family="Arial, sans-serif" font-size="12" font-weight="bold" text-anchor="end" fill="#B3261E">En retard</text>
+  <line x1="16" y1="362" x2="344" y2="362" stroke="#8A8A8A" stroke-width="1"/>
+  <circle cx="32" cy="398" r="11" fill="#D0D0D0" stroke="#8A8A8A" stroke-width="1.5"/>
+  <text x="56" y="394" font-family="Arial, sans-serif" font-size="15" font-weight="normal" text-anchor="start" fill="#2B2B2B">Lire le chapitre 4</text>
+  <text x="56" y="414" font-family="Arial, sans-serif" font-size="12" font-weight="normal" text-anchor="start" fill="#555555">Mobile · terminé</text>
+  <line x1="16" y1="432" x2="344" y2="432" stroke="#8A8A8A" stroke-width="1"/>
+  <circle cx="312" cy="688" r="28" fill="#CFCFCF" stroke="#8A8A8A" stroke-width="1.5"/>
+  <text x="312" y="696" font-family="Arial, sans-serif" font-size="26" font-weight="bold" text-anchor="middle" fill="#2B2B2B">+</text>
+  <text x="340" y="650" font-family="Arial, sans-serif" font-size="11" font-weight="normal" text-anchor="end" fill="#555555">Nouvelle tâche</text>
+  <rect x="1" y="728" width="358" height="71" rx="0" fill="#EDEDED" stroke="#8A8A8A" stroke-width="1.5"/>
+  <circle cx="60" cy="752" r="12" fill="#D0D0D0" stroke="#8A8A8A" stroke-width="1.5"/>
+  <text x="60" y="780" font-family="Arial, sans-serif" font-size="12" font-weight="bold" text-anchor="middle" fill="#2B2B2B">Échéances</text>
+  <circle cx="180" cy="752" r="12" fill="none" stroke="#8A8A8A" stroke-width="1.5"/>
+  <text x="180" y="780" font-family="Arial, sans-serif" font-size="12" font-weight="normal" text-anchor="middle" fill="#2B2B2B">Cours</text>
+  <circle cx="300" cy="752" r="12" fill="none" stroke="#8A8A8A" stroke-width="1.5"/>
+  <text x="300" y="780" font-family="Arial, sans-serif" font-size="12" font-weight="normal" text-anchor="middle" fill="#2B2B2B">Profil</text>
+</svg>

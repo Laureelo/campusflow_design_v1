@@ -1,0 +1,15 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="360" height="800" viewBox="0 0 360 800">
+  <title>Wireframe 1 : Connexion</title>
+  <rect x="0" y="0" width="360" height="800" fill="#FFFFFF"/>
+  <rect x="1" y="1" width="358" height="798" rx="18" fill="none" stroke="#2B2B2B" stroke-width="2"/>
+  <rect x="130" y="120" width="100" height="100" rx="16" fill="#EDEDED" stroke="#8A8A8A" stroke-width="1.5"/>
+  <text x="180" y="177" font-family="Arial, sans-serif" font-size="16" font-weight="normal" text-anchor="middle" fill="#2B2B2B">Logo</text>
+  <text x="180" y="270" font-family="Arial, sans-serif" font-size="24" font-weight="bold" text-anchor="middle" fill="#2B2B2B">CampusFlow</text>
+  <rect x="32" y="330" width="296" height="52" rx="6" fill="none" stroke="#8A8A8A" stroke-width="1.5"/>
+  <text x="48" y="362" font-family="Arial, sans-serif" font-size="14" font-weight="normal" text-anchor="start" fill="#555555">Email</text>
+  <rect x="32" y="400" width="296" height="52" rx="6" fill="none" stroke="#8A8A8A" stroke-width="1.5"/>
+  <text x="48" y="432" font-family="Arial, sans-serif" font-size="14" font-weight="normal" text-anchor="start" fill="#555555">Mot de passe</text>
+  <rect x="32" y="480" width="296" height="52" rx="26" fill="#CFCFCF" stroke="#8A8A8A" stroke-width="1.5"/>
+  <text x="180" y="512" font-family="Arial, sans-serif" font-size="15" font-weight="bold" text-anchor="middle" fill="#2B2B2B">Se connecter</text>
+  <text x="180" y="570" font-family="Arial, sans-serif" font-size="13" font-weight="normal" text-anchor="middle" fill="#555555">Mot de passe oublié ?</text>
+</svg>

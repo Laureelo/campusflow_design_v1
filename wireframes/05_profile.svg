@@ -1,0 +1,29 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="360" height="800" viewBox="0 0 360 800">
+  <title>Wireframe 5 : Profil</title>
+  <rect x="0" y="0" width="360" height="800" fill="#FFFFFF"/>
+  <rect x="1" y="1" width="358" height="798" rx="18" fill="none" stroke="#2B2B2B" stroke-width="2"/>
+  <rect x="1" y="1" width="358" height="64" rx="0" fill="#EDEDED" stroke="#8A8A8A" stroke-width="1.5"/>
+  <text x="20" y="40" font-family="Arial, sans-serif" font-size="20" font-weight="bold" text-anchor="start" fill="#2B2B2B">Profil</text>
+  <circle cx="180" cy="150" r="44" fill="#EDEDED" stroke="#8A8A8A" stroke-width="1.5"/>
+  <text x="180" y="156" font-family="Arial, sans-serif" font-size="14" font-weight="normal" text-anchor="middle" fill="#2B2B2B">Photo</text>
+  <text x="180" y="226" font-family="Arial, sans-serif" font-size="20" font-weight="bold" text-anchor="middle" fill="#2B2B2B">Awa</text>
+  <text x="180" y="250" font-family="Arial, sans-serif" font-size="13" font-weight="normal" text-anchor="middle" fill="#555555">Master 1 Informatique</text>
+  <text x="24" y="324" font-family="Arial, sans-serif" font-size="15" font-weight="normal" text-anchor="start" fill="#2B2B2B">Préférences de rappel</text>
+  <text x="336" y="324" font-family="Arial, sans-serif" font-size="18" font-weight="normal" text-anchor="end" fill="#2B2B2B">&#8250;</text>
+  <line x1="16" y1="340" x2="344" y2="340" stroke="#8A8A8A" stroke-width="1"/>
+  <text x="24" y="380" font-family="Arial, sans-serif" font-size="15" font-weight="normal" text-anchor="start" fill="#2B2B2B">Taille du texte</text>
+  <text x="336" y="380" font-family="Arial, sans-serif" font-size="18" font-weight="normal" text-anchor="end" fill="#2B2B2B">&#8250;</text>
+  <line x1="16" y1="396" x2="344" y2="396" stroke="#8A8A8A" stroke-width="1"/>
+  <text x="24" y="436" font-family="Arial, sans-serif" font-size="15" font-weight="normal" text-anchor="start" fill="#2B2B2B">Langue</text>
+  <text x="336" y="436" font-family="Arial, sans-serif" font-size="18" font-weight="normal" text-anchor="end" fill="#2B2B2B">&#8250;</text>
+  <line x1="16" y1="452" x2="344" y2="452" stroke="#8A8A8A" stroke-width="1"/>
+  <rect x="16" y="498" width="328" height="50" rx="25" fill="none" stroke="#8A8A8A" stroke-width="1.5"/>
+  <text x="180" y="529" font-family="Arial, sans-serif" font-size="15" font-weight="bold" text-anchor="middle" fill="#2B2B2B">Se déconnecter</text>
+  <rect x="1" y="728" width="358" height="71" rx="0" fill="#EDEDED" stroke="#8A8A8A" stroke-width="1.5"/>
+  <circle cx="60" cy="752" r="12" fill="none" stroke="#8A8A8A" stroke-width="1.5"/>
+  <text x="60" y="780" font-family="Arial, sans-serif" font-size="12" font-weight="normal" text-anchor="middle" fill="#2B2B2B">Échéances</text>
+  <circle cx="180" cy="752" r="12" fill="none" stroke="#8A8A8A" stroke-width="1.5"/>
+  <text x="180" y="780" font-family="Arial, sans-serif" font-size="12" font-weight="normal" text-anchor="middle" fill="#2B2B2B">Cours</text>
+  <circle cx="300" cy="752" r="12" fill="#D0D0D0" stroke="#8A8A8A" stroke-width="1.5"/>
+  <text x="300" y="780" font-family="Arial, sans-serif" font-size="12" font-weight="bold" text-anchor="middle" fill="#2B2B2B">Profil</text>
+</svg>
